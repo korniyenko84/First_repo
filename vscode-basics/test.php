@@ -19,7 +19,7 @@
             	include $_GET['view'];
             }else{
 
-		echo 'Sorry, Thats not allowed';
+		echo 'Sorry, Thats not allowed, but why?';
             }
 	}
         ?>
